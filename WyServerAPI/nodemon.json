@@ -1,0 +1,15 @@
+//Environment set file
+/*
+    MONGO_ATLAS_PW: mongo atlas database password
+    JWT_KEY: json web acess token key
+    JWT_KEY_2: json web refresh token key
+    EMAIL_KEY: email key for sending email
+*/
+{
+    "env":{
+        "MONGO_ATLAS_PW":"", 
+        "JWT_KEY":"",
+        "JWT_KEY_2":"",
+        "EMAIL_KEY":""
+    }
+}
