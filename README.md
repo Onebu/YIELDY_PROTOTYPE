@@ -1,3 +1,4 @@
 # YIELDY_PROTOTYPE
-PROTOTYPE OF YIELDY
-React native app which is the prototype of yieldy. 
+PROTOTYPE OF YIELDY (*Company Monitoring system prototype)
+React native app as front-end which is the prototype of yieldy. 
+Node.js + express + mongodb as backend.
