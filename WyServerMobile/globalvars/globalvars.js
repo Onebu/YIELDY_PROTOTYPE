@@ -1,0 +1,1 @@
+global.API_URL = 'https://wyserverapi.localtunnel.me'; //CHANGE IT FOR DEPLOYED WYSERVER API ADDRESS
